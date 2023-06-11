@@ -37,7 +37,7 @@ cd frontend && npm install
 cd ../backend && npm install
 ```
 
-4. Import the books_list.sql file to your database or create one with database name books_list with a table called books which only have title column:
+4. Import the books_list.sql file from backed folder to your database or create one with database name books_list with a table called books which only have title column:
 
 5. To run this application :
 ```bash
